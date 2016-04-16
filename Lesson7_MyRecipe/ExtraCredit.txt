@@ -1,0 +1,5 @@
+New ingredient & instructions for: Key Lime Pie
+For the animation aspect, I added a toggle for both "3" headers with a fast duration.
+To add a CSS feature, I added a function to highlight each instruction step as the user hovers over each step to help them go step-by-step.
+For the DOM traversal, I searched "sideways in the family tree" by looking at the siblings of each header 3
+    [ <h2 data-cloud9-id="189">Key Lime Pie</h2> <-> <center data-cloud9-id="208">...</center ]
